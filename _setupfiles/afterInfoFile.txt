@@ -1,0 +1,13 @@
+ Gcode Maker 3.0 has been successfully installed.
+
+ Please restart Inkscape Application !
+
+ And check at the 'extension' menu in the Inkscape 
+ application's menu bar, a new submenu
+ 'Gcode Maker Utilities' will be added up there.
+ 
+ [NB: Python Interpreter-v3.10 or later, required] 
+ Download python from : https://www.python.org/downloads/
+
+ visit :- https://vishnustechnologies.wixsite.com/theprojectshop
+ (C)2022 vishnus_technologies

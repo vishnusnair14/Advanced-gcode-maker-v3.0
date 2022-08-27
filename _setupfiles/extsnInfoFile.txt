@@ -1,0 +1,22 @@
+***** Gcode Maker 3.0 ******
+----------------------------
+App ID:{AES15423FPAT45410000011}
+Dated : 02-09-2021  (C)2022
+Copyright (C)2022 vishnus_technologies,
+Contact: @vishnus technologies
+          KERALA, INDIA.
+
+"Gcode Maker 3.0" extension is fully open-source. This program 
+is free software; you can redistribute it and/or modify it under 
+the terms of the GNU General Public License.
+   
+As published by the Free Software Foundation; either any 
+versions of the License, (at your option) any later versions.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY.
+
+DEVELOPER or THE COMPANY will not be responsible for any 
+disfunctionalities happended to your system by using 
+this software or its source files in future.
+The software also comes WITHOUT ANY WARRANTY.
+

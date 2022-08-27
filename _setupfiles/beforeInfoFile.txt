@@ -1,0 +1,15 @@
+ Please close all the running 'Inkscape Application' processes before 
+ continuing with this Gcode Maker 3.0 installation setup !
+  
+ We recommend you to install Inkscape v1.0-[x64] or later, 
+ UGS Platform v2.0.7 [Dec 02 2020], Python v3.10, on your system.
+ You can also install, those software's installer within this setup.
+ [Ignore it, if already installed on your system]
+
+ This setup will install some python extension source scripts to inkscape, 
+ install required python modules, changes inkscape's default python 
+ interpreter to python 3.10 [MSC v.1927 64 bit] and apply some short keys.
+
+ Download Inkscape at : https://inkscape.org/release/inkscape-1.1/ 
+ Download UGS Platform at : https://winder.github.io/ugs_website/download/ 
+ Download Python from : https://www.python.org/downloads/
