@@ -1,0 +1,4 @@
+(# Default page for custom tool path gcode )
+    
+(# Default custom pen path gcode starts here [user_path_footer.txt].)
+(# Moves to the respective pen's location to keep it after writing.) 

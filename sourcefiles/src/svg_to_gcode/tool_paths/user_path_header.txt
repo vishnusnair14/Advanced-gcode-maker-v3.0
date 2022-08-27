@@ -1,0 +1,4 @@
+(# Default page for custom tool path gcode )
+    
+(# Default custom pen path gcode starts here [user_path_header.txt].)
+(# Moves to a respective pen's location to take it before writing.) 
